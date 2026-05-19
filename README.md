@@ -2,7 +2,7 @@
 
 A Power BI dashboard analysing customer attrition across **10,000 banking customers** in France, Germany, and Spain. Built on the [Bank Customer Churn Prediction](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset) dataset, the report surfaces the key demographic, behavioural, and product drivers of churn — and translates them into actionable retention strategies.
 
-## 📋 Table of Contents
+## Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Key Findings](#key-findings)
